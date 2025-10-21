@@ -2,23 +2,36 @@ export function Experience() {
   const experiences = [
     {
       title: "Founder",
-      company: "SteadyStride",
+      company: "AIZenera",
       period: "2024 - Present",
       description:
-        "Leading a HealthTech startup focused on wearable health monitoring solutions for patients with movement disorders.",
+        "Managing requirements of clients , providing with AI-based solutions and overseeing end to end project development.",
       achievements: [
-        "Developed patented anti-tremor wearable technology",
-        "Built a team of 5 engineers and designers",
-        "Secured initial funding through pitch competitions",
+        "Developing AI-powered applications for small businesses.",
+        "Developing custom GenAI solutions to enhance business operations.",
+        "Conducting Gen AI sessions to educate people on latest trends and applications of AI.",
       ],
       color: "border-green-500",
     },
     {
+      title: "Research Intern",
+      company: "Jadavpur University NLP Lab",
+      period: "2025",
+      description:
+        "Worked on advanced NLP projects focusing on RAG based architectures and transformer models.",
+      achievements: [
+        "Implemented novel RAG techniques improving model accuracy",
+        "Collaborated with a team of researchers.",
+        "Implemented reranking algorithms to enhance response relevance.",
+      ],
+      color: "border-purple-500",
+    },
+    {
       title: "Frontend Lead",
       company: "ASME IEM Student Chapter",
-      period: "2024 - Present",
+      period: "2024 - 2025",
       description:
-        "Leading frontend development for the ASME IEM website, implementing modern design principles and responsive layouts.",
+        "Lead frontend development for the ASME IEM website, implementing modern design principles and responsive layouts.",
       achievements: [
         "Redesigned the chapter website increasing user engagement by 40%",
         "Implemented responsive design for all devices",
