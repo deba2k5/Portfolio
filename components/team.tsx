@@ -48,6 +48,24 @@ export function Team() {
       description: "Active participant in Google Developer Group events and workshops",
       color: "border-indigo-500",
     },
+    {
+      name: "IEEE YESIST12 2025 (Malaysia)",
+      role: "Team Lead",
+      description: "Led team to Top 3 global recognition at IEEE YESIST12 2025",
+      color: "border-cyan-500",
+    },
+    {
+      name: "Infosys Global Hackathon 2025",
+      role: "Team Lead",
+      description: "Led team to high placement (State Winner / AIR-8) at Infosys Global Hackathon 2025",
+      color: "border-blue-500",
+    },
+    {
+      name: "Tata Social Enterprise Challenge 2025",
+      role: "Team Lead",
+      description: "Led winning team at Tata Social Enterprise Challenge 2025",
+      color: "border-green-500",
+    },
   ]
 
   const collaborationNetworks = [
@@ -62,6 +80,9 @@ export function Team() {
     "Website Development",
     "Fullstack",
     "Dronetech",
+    "IEEE YESIST12",
+    "Infosys Global Hackathon",
+    "Tata Social Enterprise Challenge",
   ]
 
   return (
