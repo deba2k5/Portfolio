@@ -19,8 +19,8 @@ export function Research() {
       color: "border-green-500",
     },
     {
-      title: "Wearable Sensor-based Data Visualization",
-      description: "Developing methods for visualizing and interpreting data from wearable sensors",
+      title: "Gen AI Techniques",
+      description: "Investigating generative AI models and their applications across various domains",
       icon: "📱",
       color: "border-yellow-500",
     },
