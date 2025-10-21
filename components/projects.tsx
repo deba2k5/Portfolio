@@ -37,7 +37,7 @@ export function Projects() {
       role: "Inventor & Lead Engineer",
       tech: ["Arduino", "C++", "Sensors", "ML Algorithms", "3D Printing"],
       github: "https://github.com/predator2k5/anti-tremor",
-      image: "https://www.mdpi.com/sensors/sensors-20-01765/article_deploy/html/images/sensors-20-01765-g001.png",
+      image: "htt-01765/article_deploy/html/images/sensors-20-01765-g001.png",
       category: "hardware",
     },
     {
@@ -53,13 +53,12 @@ export function Projects() {
     },
     {
       id: 4,
-      title: "Early Parkinson Prediction",
+      title: "GeoGrow - ML-based Crop Advisory Platform and loan facilitation",
       description:
-        "ML-based system for early detection of Parkinson's disease using various biomarkers and patient data.",
-      role: "ML Engineer & Data Scientist",
-      tech: ["Python", "Scikit-learn", "TensorFlow", "Pandas", "Streamlit"],
+        "An omnichannel platform providing personalized agricultural advice to farmers using ML and data analytics.",
+      tech: ["Python", "Scikit-learn", "TensorFlow", "Pandas", "GenAI"],
       github: "https://github.com/predator2k5/parkinson-prediction",
-      image: "https://www.news-medical.net/image.axd?picture=2020%2F3%2Fshutterstock_1070767316.jpg",
+      image: "Portfolio\public\geogrow.png",
       category: "ml",
     },
     {
