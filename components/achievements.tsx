@@ -1,6 +1,18 @@
 export function Achievements() {
   const achievements = [
     {
+      title: "IEEE YESIST12 2025, Malaysia Global Top 3",
+      description: "Globally Top 3 at IEEE YESIST12 Malaysia (2025)",
+      icon: "🥇",
+      color: "border-yellow-500",
+    },
+    {
+      title: "Infosys Global Hackathon Winner",
+      description: "Infosys Global Hackathon State Winner and AIR-8 (2025)",
+      icon: "🥇",
+      color: "border-yellow-500",
+    },
+    {
       title: "2X AICTE IDE Bootcamp Winner",
       description: "IIM Sambalpur (2024) & Amity University Ranchi (2025)",
       icon: "🥇",
